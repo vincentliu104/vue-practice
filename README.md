@@ -1,6 +1,4 @@
-# tutorial
-
-- <https://vuejs.org/v2/guide/index.html>
+# vue-practice
 
 ## Project setup
 
@@ -30,3 +28,20 @@ npm run lint
 ### Customize configuration
 
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+## [Vue](https://vuejs.org/v2/guide/index.html)
+
+: bind: `v-bind:todo`, or `:todo`
+@ on
+
+## [Vuex](https://vuex.vuejs.org/)
+
+Mutations 必須作同步，非同步交給 action 去更動 mutate 裡的 state
+
+使用 mapActions 可使程式碼更簡潔
+
+[mpaGetters](https://vuex.vuejs.org/guide/getters.html#the-mapgetters-helper)
+
+## Tools
+
+[vuejs/vue-devtools](https://github.com/vuejs/vue-devtools#vue-devtools)
