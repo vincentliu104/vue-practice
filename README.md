@@ -45,3 +45,11 @@ Mutations 必須作同步，非同步交給 action 去更動 mutate 裡的 state
 ## Tools
 
 [vuejs/vue-devtools](https://github.com/vuejs/vue-devtools#vue-devtools)
+
+## Note
+
+MVVM
+
+OSM
+
+- [Leaflet](https://leafletjs.com/)
